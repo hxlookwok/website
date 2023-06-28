@@ -1,7 +1,6 @@
 @font-face {
   font-family: myFirstFont;
-  src: url(MADEINFINITY PERSONALUSE-Medium.otf);
-}
+  font-family: 'Archivo', sans-serif;
 h1 {
     font-family: myFirstFont;
 }
