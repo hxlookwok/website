@@ -1,6 +1,3 @@
-@font-face {
-  font-family: myFirstFont;
-  font-family: 'Archivo', sans-serif;
 h1 {
-    font-family: myFirstFont;
+    font-family: 'Archivo', sans-serif;
 }
