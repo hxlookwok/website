@@ -1,9 +1,9 @@
-h1, .subhead {
-    font-family: 'Archivo', sans-serif;
-}
-body {
-    background-color:#dbe9ff;
-}
-p {
-    font-family:Arial;
+input[type="radio"] {
+  /* Add if not using autoprefixer */
+  -webkit-appearance: none;
+  appearance: none;
+  /* For iOS < 15 to remove gradient background */
+  background-color: #fff;
+  /* Not removed via appearance */
+  margin: 0;
 }
