@@ -7,3 +7,11 @@ input[type="radio"] {
   /* Not removed via appearance */
   margin: 0;
 }
+.first {
+  position: relative;
+  left: -20px;
+}
+.two {
+  position: relative;
+  left:20px;
+}
