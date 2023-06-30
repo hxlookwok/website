@@ -40,9 +40,25 @@
         background-color:#1d1f6e;
         color: white;
       }
-      p, li, input {
+      p, ul{
         font-family: 'Bacasime Antique', serif;
         font-size: 150%;
+      }
+      input[type="radio"] {
+        appearance: none;
+        background-color: #fff;
+        margin: 0;
+        font: inherit;
+        color: currentColor;
+        width: 1.15em;
+        height: 1.15em;
+        border: 0.15em solid currentColor;
+        border-radius: 50%;
+}
+
+.form-control + .form-control {
+  margin-top: 1em;
+}
       }
       .large {
         font-family: "Archivo", sans-serif;
