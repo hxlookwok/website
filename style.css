@@ -1,26 +1,18 @@
 body {
         background-color:#dbe9ff;
       }
-      h1 {
-        font-family: "Archivo", sans-serif;
-        font-size: 250%;
-        top:0px;
-        background-color:#1d1f6e;
-        color: white;
-        text-align:center;
-      }
-      p, ul, h2{
+p, ul, h2{
         font-family: 'Bacasime Antique', serif;
         font-size: 150%;
       }
-      .large {
+.large {
         font-family: "Archivo", sans-serif;
         font-style: italic;
         font-size: 250%;
         background-color: #282a9c;
         color: white;
       }
-      img {
+img {
         height: 50%;
         width: 50%;
         display: block;
