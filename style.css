@@ -9,7 +9,7 @@ body {
         color: white;
         text-align:center;
       }
-      p, ul{
+      p, ul, h2{
         font-family: 'Bacasime Antique', serif;
         font-size: 150%;
       }
