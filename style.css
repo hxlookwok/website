@@ -5,3 +5,8 @@
         background-color: #282a9c;
         color: white;
       }
+#submit {
+        background-color:blue;
+        border-radius:0.5;
+        color:white;
+}
