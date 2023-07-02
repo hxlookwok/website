@@ -1,4 +1,4 @@
-const submit = document.getElementsByTagName("button")[0];
+const submit = document.getElementById("sub")[0];
 submit.addEventListener("click", function() {
     alert("Your answer has been submitted!);
           });
