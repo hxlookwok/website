@@ -1,7 +1,3 @@
-const submit = document.getElementById("sub")[0];
-submit.addEventListener("click", function() {
-    alert("Your answer has been submitted!);
-          });
 const express = require("express");
 const app = express();
 app.use(express.static("./public"));
