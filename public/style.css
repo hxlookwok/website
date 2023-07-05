@@ -10,13 +10,17 @@
         background-color:blue;
         color:white;
         border-radius:25px;
+        transition: width 1.0s, height 1.0s;
+}
+#sub:hover {
+        width:125%;
+        height:125%;
 }
 #link {
         font-family: 'Poppins', sans-serif;
         color:blue;
 }
-#link:hover {
-        transform:scale(1.5);
+#link:hover {      
         color:rgb(186, 54, 54)
 }
 p, ul{
