@@ -8,6 +8,7 @@
 #sub {
         background-color:blue;
         color:white;
+        border-radius:0.5;
 }
 p, ul{
         font-family: 'Bacasime Antique', serif;
