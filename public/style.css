@@ -25,3 +25,7 @@
 p, li{
         font-family: 'Poppins', sans-serif;
       }
+div {
+        margin:2px;
+        background-color:white;
+}
