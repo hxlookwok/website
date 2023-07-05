@@ -10,11 +10,13 @@
         color:white;
         border-radius:25px;
 }
+#link {
+        font-family: 'Poppins', sans-serif;
+}
 #link:hover {
         transform:scale(1.5);
         color:rgb(186, 54, 54)
 }
 p, ul{
         font-family: 'Poppins', sans-serif;
-        font-size: 125%;
       }
