@@ -12,6 +12,7 @@
 }
 #link {
         font-family: 'Poppins', sans-serif;
+        color:blue;
 }
 #link:hover {
         transform:scale(1.5);
