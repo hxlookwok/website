@@ -1,5 +1,5 @@
 .large {
-        ont-family: 'Modern No. 20', sans-serif;
+        font-family: 'Modern No. 20', sans-serif;
         font-style: italic;
         font-size: 250%;
         background-color: rgb(72, 110, 189);
@@ -22,10 +22,6 @@
 #link:hover {      
         color:rgb(186, 54, 54)
 }
-p, li{
+p, ul{
         font-family: 'Poppins', sans-serif;
       }
-div {
-        margin:2px;
-        background-color:white;
-}
