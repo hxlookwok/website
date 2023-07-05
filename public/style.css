@@ -3,6 +3,7 @@
         font-style: italic;
         font-size: 250%;
         background-color: #282a9c;
+        display:inline-block;
         color: white;
       }
 #sub {
